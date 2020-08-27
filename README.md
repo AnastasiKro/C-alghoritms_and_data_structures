@@ -1,0 +1,2 @@
+# 2sem
+studiing C
