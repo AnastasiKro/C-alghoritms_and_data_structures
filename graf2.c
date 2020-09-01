@@ -12,6 +12,7 @@ typedef struct bfs{
 	int d;
 	Gr* pred;
 }bfs;
+
 typedef struct queue{
 	int n;
 	int* info;
